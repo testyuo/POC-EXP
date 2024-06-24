@@ -27,7 +27,8 @@ Content-Type: application/vnd.ms-excel
 <% out.println("lnrrovkexhsxbzjwptmthmyjgnvgjhjk");%>  
 --oklp586ac9dujytddee11e86fa698nmv--
 ```
-![image.png](https://cdn.nlark.com/yuque/0/2024/png/42988647/1719237716793-8a724ec9-8fa6-45e9-8cc6-f4c374f4f682.png#averageHue=%23fcfbfb&clientId=ud521e60a-9dae-4&from=paste&height=588&id=ub9f5b3b2&originHeight=735&originWidth=1495&originalType=binary&ratio=1.25&rotation=0&showTitle=false&size=150582&status=done&style=none&taskId=u522aa8d8-789a-473b-a00f-15978b5ea1e&title=&width=1196)<br />第二步，使用浏览器访问回显文件<br />![image.png](https://cdn.nlark.com/yuque/0/2024/png/42988647/1719237788335-3acbf253-4c46-4cf8-8d75-69f75d2b21ce.png#averageHue=%23fdfcfc&clientId=ud521e60a-9dae-4&from=paste&height=245&id=u9b851904&originHeight=306&originWidth=1025&originalType=binary&ratio=1.25&rotation=0&showTitle=false&size=16834&status=done&style=none&taskId=u094b6502-1e3f-43c6-b7f5-81edc18f79b&title=&width=820)<br />证明存在漏洞
+![image](https://github.com/testyuo/poc/assets/170853752/0e39a22d-d772-446d-a960-24306d902c31)
+<br />第二步，使用浏览器访问回显文件<br />![image.png](https://cdn.nlark.com/yuque/0/2024/png/42988647/1719237788335-3acbf253-4c46-4cf8-8d75-69f75d2b21ce.png#averageHue=%23fdfcfc&clientId=ud521e60a-9dae-4&from=paste&height=245&id=u9b851904&originHeight=306&originWidth=1025&originalType=binary&ratio=1.25&rotation=0&showTitle=false&size=16834&status=done&style=none&taskId=u094b6502-1e3f-43c6-b7f5-81edc18f79b&title=&width=820)<br />证明存在漏洞
 
 
 
