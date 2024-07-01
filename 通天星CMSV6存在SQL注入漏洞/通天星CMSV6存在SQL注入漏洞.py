@@ -3,15 +3,8 @@ from multiprocessing.dummy import Pool
 requests.packages.urllib3.disable_warnings()
 
 def banner():
-    banner = """
-███████╗██╗  ██╗██╗   ██╗██╗   ██╗
-██╔════╝██║ ██╔╝╚██╗ ██╔╝██║   ██║
-███████╗█████╔╝  ╚████╔╝ ██║   ██║
-╚════██║██╔═██╗   ╚██╔╝  ██║   ██║
-███████║██║  ██╗   ██║   ╚██████╔╝
-╚══════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ 
-"""
-    print(banner)
+    pass
+    
 def main():
     banner()
     parser = argparse.ArgumentParser(description='QLBSQL! ')
