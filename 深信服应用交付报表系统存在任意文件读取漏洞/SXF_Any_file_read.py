@@ -5,6 +5,7 @@ requests.packages.urllib3.disable_warnings() # 校验证书错的时候防止报
 def banner():
     # 定义横幅
     pass
+
 def main():
     banner()
     # 处理命令行输入的参数了吧
